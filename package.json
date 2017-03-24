@@ -1,6 +1,6 @@
 {
   "name": "check-user-role",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Middleware to check user roles",
   "main": "lib/index.js",
   "scripts": {
