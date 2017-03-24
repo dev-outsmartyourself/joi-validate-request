@@ -1,7 +1,7 @@
 {
-  "name": "check-user-role",
-  "version": "0.0.4",
-  "description": "Middleware to check user roles",
+  "name": "joi-validate-request",
+  "version": "0.0.2",
+  "description": "Middleware to check requests with joi",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run compile && mocha --compilers js:babel-core/register",
